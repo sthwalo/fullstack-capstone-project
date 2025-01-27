@@ -130,3 +130,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+GIFT-001.md
+user-story-template.md
